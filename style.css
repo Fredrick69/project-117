@@ -1,0 +1,38 @@
+#Sketch_to_be_drawn{
+    font-size: 40px;
+    color: red;
+    font-weight: bold;
+}
+
+body{
+    background-color:lawngreen ;
+}
+p{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: blue;
+    background-color: blanchedalmond;
+}
+
+#show_sketch{
+    float:right;
+    font-weight: bold;
+}
+
+#timer{
+    float:right;
+    font-size: 40px;
+    font-weight: bold;
+    margin-right: 80px;
+}
+
+#score{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 80px;
+}
